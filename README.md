@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @proximagr
+- 👋 Hi, I’m Pantelis
 - 👀 I’m interested in Cloud Solutions
 - 🌱 I’m currently learning Azure DevOps & Github
 - 💞️ I’m looking to collaborate on ...
