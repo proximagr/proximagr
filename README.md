@@ -2,6 +2,6 @@
 - 👀 I’m interested in Cloud Solutions
 - 🌱 I’m currently learning Azure DevOps & Github
 - 💞️ I’m looking to collaborate on ...
-- 📫 proximagr(at)hotmail(dot)com
-- blog: https://cloudcorner.gr 
+- :e-mail: proximagr(at)hotmail(dot)com
+- :newspaper: https://cloudcorner.gr 
 - :bird: @papostolidis
